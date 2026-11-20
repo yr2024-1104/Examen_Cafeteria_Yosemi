@@ -18,3 +18,4 @@ los datos de entrada son el Nombre del cliente, la fecha del pedido, la condici√
 10. Mostrar los resultados en la interfaz del programa.
 # Datos de salida
 La lista de productos agregados al pedido, la cantidad de cada productos, el precio unitario de cada producto, el total por cada producto, el subtotal de la compra, el descuento aplicado, el costo de empaque, el ITBIS del 18 % y el total general a pagar.
+# Captura de la interfaz en ejecucion
